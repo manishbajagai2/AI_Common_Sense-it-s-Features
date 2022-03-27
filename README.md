@@ -23,3 +23,7 @@ To add on and test this project we will add modules like pytesseract that uses v
 ### Summarized Result :
 
 ![alt text](https://github.com/manishbajagai2/AI_Common_Sense-it-s-Features/blob/master/summarised.png)
+
+### Response Graph :
+
+![alt text](https://github.com/manishbajagai2/AI_Common_Sense-it-s-Features/blob/master/Figure_1.png)
